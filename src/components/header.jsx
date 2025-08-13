@@ -21,7 +21,7 @@ function Header() {
           Kawan Nascimento
         </h1>
         <p className="text-xl text-gray-300 mb-8 max-w-xl mx-auto">
-          Desenvolvedor Full Stack especializado em soluções escaláveis, APIs robustas e interfaces modernas.
+          Desenvolvedor Full Stasck especializado em soluções escaláveis, APIs robustas e interfaces modernas.
         </p>
         
         {/* Navegação */}
