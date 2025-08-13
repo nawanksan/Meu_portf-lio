@@ -10,7 +10,7 @@ function Projects() {
         titulo: "Marquei - APP para barbearias e salões de beleza",
         descricao:
           "Aplicativo moderno para agendamentos, desenvolvido com Flutter e integração de API.",
-        imagem: "/Blue Modern Mobile Application Presentation.jpg",
+        imagem: `${import.meta.env.BASE_URL}Blue Modern Mobile Application Presentation.jpg`,
         link: "https://github.com/nawanksan/APP_Marquei",
       },
       {
