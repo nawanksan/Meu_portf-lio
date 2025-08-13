@@ -4,7 +4,7 @@ import { HiHome } from "react-icons/hi";
 
 function Contact() {
   return (
-    <section id="contact" className="bg-[#1F2937] py-20 px-4 text-[#F9FAFB]">
+    <section id="contact" className="bg-gradient-to-b from-[#111827] via-[#182131] to-[#1E3A8A] text-[#f1f1f1] py-20">
       <div className="max-w-3xl mx-auto text-center">
         <h3 className="text-3xl font-bold mb-6 text-[#2563EB]">Contato</h3>
         <p className="text-lg mb-8 text-gray-300">

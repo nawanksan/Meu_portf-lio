@@ -5,7 +5,7 @@ function Hero() {
   return (
     <section
       id="Hero"
-      className="bg-gradient-to-b from-[#111827] via-[#182131] to-[#1E3A8A] text-[#f1f1f1] py-20"
+      className="bg-[#111827] py-20 px-4 text-[#F9FAFB]"
     >
       <div className="container mx-auto px-6 text-center">
         <h2 className="text-3xl font-bold mb-4">Conhecimentos</h2>
