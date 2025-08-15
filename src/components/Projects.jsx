@@ -37,6 +37,14 @@ function Projects() {
         imagem: "https://via.placeholder.com/300x200",
         // link: "#",
       },
+      {
+        id: 3,
+        titulo: "Api - django Rest Framework e JWT",
+        descricao:
+          "Este projeto é uma API desenvolvida em Django REST Framework para gerenciamento de empresas e veículos,com autenticação, paginação e integração com banco de dados MySQL rodando em container Docker.",
+        imagem: "https://via.placeholder.com/300x200",
+        link: "https://github.com/nawanksan/ProcessoSeletivo_SNAmbiental",
+      },
     ];
     setProjetos(mock);
   }, []);
