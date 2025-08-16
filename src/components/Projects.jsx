@@ -26,7 +26,7 @@ function Projects() {
         titulo: "APP de Humor",
         descricao:
           "Aplicativo divertido que permite registrar e acompanhar seu humor ao longo do tempo.",
-        imagem: "https://via.placeholder.com/300x200",
+        imagem: `${import.meta.env.BASE_URL}app-humor.jpg`,
         link: "https://github.com/nawanksan/App-humor",
       },
       {
@@ -39,7 +39,7 @@ function Projects() {
       },
       {
         id: 3,
-        titulo: "Api - django Rest Framework e JWT",
+        titulo: "API - django Rest Framework e JWT",
         descricao:
           "Este projeto é uma API desenvolvida em Django REST Framework para gerenciamento de empresas e veículos,com autenticação, paginação e integração com banco de dados MySQL rodando em container Docker.",
         imagem: "https://via.placeholder.com/300x200",
