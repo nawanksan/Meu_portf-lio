@@ -18,7 +18,7 @@ function Projects() {
         titulo: "APP Turismo",
         descricao:
           "Aplicativo para explorar pontos turísticos, criado durante meus estudos de Flutter.",
-        imagem: "https://via.placeholder.com/300x200",
+        imagem: `${import.meta.env.BASE_URL}appturismo.jpg`,
         link: "https://github.com/nawanksan/APP_Turismo",
       },
       {
